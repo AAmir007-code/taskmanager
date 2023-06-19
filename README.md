@@ -1,6 +1,7 @@
 # Task manager Project
 Bu loyiha _**Djangoda**_ yaratilgan, Create funksiyasini o'z ichiga oladi.
 
+Sizga  [pip](https://pip.pypa.io/en/stable/)  paket menejeri kerak bo'ladi.
 
 ### Loyihani ishlatish uchun quyidagi buyruqlarni bajaring:
 - Linux va MacOs uchun:
